@@ -25,32 +25,6 @@ https://gitter.im/addy-org
 ## Contribution Guidelines
 https://addy.wiki/contribution-guidelines
 
-## Getting Started with Contributing:
-1. After forking the project, git clone this repository onto your local environment:
-```bash
-git clone https://github.com/bluetch/shopee_design.git
-```
-2. Create a separate Git branch
-```bash
-git branch <your_new_branch_name>
-```
-3. Git checkout your branch
-```bash
-git checkout <your_new_branch_name>
-```
-4. Open up the project in your favorite code editor (e.g. Atom).
-5. Make your changes.
-6. Git add and commit your changes.
-```bash
-git add <file_name>
-git commit -m <insert_commit_comment>
-```
-7. Git push your changes as well as your new branch.
-```bash
-git push -u origin <your_branch_name>
-```
-8. Go to the GitHub repository and submit a Pull Request.
-
 ## Running
 
 Once you have [docker](https://docs.docker.com/engine/installation/) and [docker-compose](https://docs.docker.com/compose/install/) installed:
@@ -58,3 +32,6 @@ Once you have [docker](https://docs.docker.com/engine/installation/) and [docker
     docker-compose up --build
 
 A development version will be running at port 8000 and a simulation of production build at port 8001.
+
+## Getting Started with Contributing:
+https://addy.wiki/newcomers-guide
