@@ -1,11 +1,6 @@
-sudo: required
-
 language: node_js
 node_js:
-  - "0.10"
-
-install:
-  - npm install
+  - "6"
 
 script:
   - npm run lint
