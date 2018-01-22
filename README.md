@@ -1,10 +1,14 @@
-# <img src="https://github.com/addy-org/Addy/blob/master/img/logo.png" alt="Addy" height="42" width="42"></img>   Addy
+# <img src="https://raw.githubusercontent.com/addy-org/Addy/master/img/logo.png" alt="Addy" height="42" width="42"></img>   Addy
+
+[![Join the chat at https://gitter.im/addy-org/Lobby](https://badges.gitter.im/addy-org/Lobby.svg)](https://gitter.im/addy-org/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://travis-ci.org/addy-org/Addy-Docker.svg?branch=master)](https://travis-ci.org/addy-org/Addy-Docker)
+
 Addy is a web app that enhances the addressing system of the world. Instead of remembering long addresses, Addy generates a unique 7-alphanumeric code based on the latitudinal and longitudinal coordinates of any position. The code is so accurate that every building in the world has been assigned a different 'Addy' with a minimum distance of 11.132 meters.
 
 ![Landing Page](readme_assets/home.png)
 
 
-**Tech Stack for this project**
+## Tech Stack for this project
 - HTML5
 - CSS3
 - JavaScript
@@ -19,7 +23,7 @@ Addy is a web app that enhances the addressing system of the world. Instead of r
 https://gitter.im/addy-org
 
 ## Contribution Guidelines
-https://github.com/addy-org/Addy/wiki/Contribution-Guidelines
+https://addy.wiki/contribution-guidelines
 
 ## Getting Started with Contributing:
 1. After forking the project, git clone this repository onto your local environment:
@@ -52,5 +56,5 @@ git push -u origin <your_branch_name>
 Once you have [docker](https://docs.docker.com/engine/installation/) and [docker-compose](https://docs.docker.com/compose/install/) installed:
 
     docker-compose up --build
-    
+
 A development version will be running at port 8000 and a simulation of production build at port 8001.
