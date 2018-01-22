@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/addy-org/Addy/master/img/logo.png" alt="Addy" height="42" width="42"></img>   Addy
+# <img src="https://raw.githubusercontent.com/addy-org/Addy-Algorithm/master/readme_assets/logo.png" alt="Addy" height="42" width="42"></img>   Addy-Docker
 
 [![Join the chat at https://gitter.im/addy-org/Lobby](https://badges.gitter.im/addy-org/Lobby.svg)](https://gitter.im/addy-org/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/addy-org/Addy-Docker.svg?branch=master)](https://travis-ci.org/addy-org/Addy-Docker)
