@@ -27,7 +27,7 @@
     "require-dir": "^0.3.2"
   },
   "dependencies": {
-    "eslint": "^4.11.0",
+    "eslint": "^4.16.0",
     "gulp-webpack": "^1.5.0"
   }
 }
