@@ -1,5 +1,5 @@
 {
-  "name": "addy",
+  "name": "Addy-Docker",
   "version": "1.0.0",
   "description": "Addy is a web app that enhances the addressing system of the world. Instead of remembering long addresses, Addy generates a unique 7-digit code based on the latitudinal and longitudinal coordinates of any position. The code is so accurate that every building in the world has been assigned a different 'Addy' with a minimum distance of 11.132 meters.",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Addy-Smart-Addresses/Addy.git"
+    "url": "git+https://github.com/addy-org/Addy-Docker.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Addy-Smart-Addresses/Addy/issues"
+    "url": "https://github.com/addy-org/Addy-Docker/issues"
   },
-  "homepage": "https://github.com/Addy-Smart-Addresses/Addy#readme",
+  "homepage": "https://github.com/addy-org/Addy-Docker#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-csso": "^3.0.0",
